@@ -1,1 +1,3 @@
 print("Hello Hacktoberfest!")
+
+print("")
